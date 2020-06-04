@@ -9,6 +9,9 @@
     <Reference Include="PX.Api.Mobile">
       <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\DeleteMe2020R1\Bin\PX.Api.Mobile.dll</HintPath>
     </Reference>
+    <Reference Include="PX.CCProcessing">
+      <HintPath>..\..\..\..\Acumatica2020R1\SUV20_104_0012\Bin\PX.CCProcessing.dll</HintPath>
+    </Reference>
     <Reference Include="PX.Common">
       <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\DeleteMe2020R1\Bin\PX.Common.dll</HintPath>
     </Reference>
